@@ -14,7 +14,7 @@ for i in range(0,a):
 
 '''
 
-''
+'''
 
 from math import factorial as fact
 
@@ -30,4 +30,4 @@ for i in range(0,a):
 		j=j+1
 	i=i+1
 	
-''
+'''
